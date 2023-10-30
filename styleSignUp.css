@@ -1,0 +1,156 @@
+
+body{
+    background-image:url('https://imgur.com/aGtyfcN.png');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}       
+
+.signup-box #logo{
+    width: 192px; 
+    height: 36px;
+    display: block; /* Mengubah gambar menjadi elemen block */
+    margin: 0 auto;
+}
+
+.signup-box{
+    width: 484px;
+    height: 838px;
+    top: 93.5px;
+    left: 478px;
+    border-radius: 8px;
+    padding: 24px;
+    gap: 24px;
+    background-color: white;
+    margin: auto;
+
+}
+
+h1{
+    text-align: center;
+    padding-top: 20px ;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+h3{
+    text-align: center;
+    color: #737373;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 14px;
+    width: 436px;
+    height: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color:#171717;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+
+}
+form input{
+    width: 436px;
+    height: 42px;
+    padding-left: 10px;
+    border: 1px solid #737373;
+    border-radius: 12px;
+    gap: 10px;
+    color: #737373;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    align-items: center;
+
+}
+
+#masuk{
+    width: 436px;
+    height: 48px;
+    border-radius: 6px;
+    padding: 12px, 20px, 12px, 20px;
+    background-color: #10B981;
+    border-color: #10B981;
+    color: white;
+    font-size: 16px;
+}
+
+
+#sandi{
+    width: 436px;
+    height: 36px;
+    top: 465px;
+    left: 24px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #737373;
+    line-height: 18.2px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+   
+
+}
+
+#peringatan{
+    width: 436px;
+    height: 96px;
+    top: 465px;
+    left: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #737373;
+    line-height: 24px;
+    text-align: justify;
+    gap: 4px;
+    font-family: 'Inter', sans-serif;
+}
+
+/* .signup-box #page-masuk{
+    width: 207px;
+    height: 24px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #737373;
+    display: flex;
+    margin-top: 30px;
+   
+    padding-top: 20px;
+} */
+#page-masuk{
+    text-align: center;
+    padding-top: 20px ;
+    color: #737373;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+
+#page-masuk a{
+    color: #10B981;
+    text-align: center;
+    
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  color: #737373;
+  position: relative;
+  right: 45px;
+  top: 7.5px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  color: #737373;
+}
